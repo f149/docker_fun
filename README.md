@@ -1,1 +1,1 @@
-Docker for fun
+Docker
